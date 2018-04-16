@@ -4,7 +4,7 @@ namespace W3CSchool
 {
 	class Loops
 	{
-		public static void UnitTese()
+		public static void UnitTest()
 		{
 			//L_While();
 			//L_For();
