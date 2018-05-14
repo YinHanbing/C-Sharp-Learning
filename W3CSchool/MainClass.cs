@@ -11,7 +11,7 @@ namespace W3CSchool
 			//OperatorsApp1.UnitTest();
 			//Rectangle.UnitTest();
 			//DecisionMaking.UnitTest();
-			Loops.UnitTese();
+			Loops.UnitTest();
 		}
 	}
 }
